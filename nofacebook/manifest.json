@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+
+    "name": "No facebook!",
+    "description": "None! No facebook!",
+    "version": "0.1",
+
+    "background": {
+        "scripts": ["deletefacebook.js"]
+    },
+
+    "permissions": ["tabs"]
+}
